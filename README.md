@@ -16,19 +16,17 @@
 
 ## 🛠️ Skills & Tools
 
-| Domain                       | Technologies                                       |
-| ---------------------------- | -------------------------------------------------- |
-| **Cloud**                    | AWS (EC2, S3, IAM, VPC, RDS, DynamoDB, CloudWatch) |
-| **DevOps**                   | CI/CD, Automation, Monitoring                      |
-| **IaC**                      | Terraform                                          |
-| **Containers**               | Docker                                             |
-| **Configuration Management** | Ansible                                            |
-| **CI/CD**                    | AWS CodePipeline                                   |
-| **Monitoring**               | AWS CloudWatch                                     |
-| **Version Control**          | Git, GitHub                                        |
-| **Databases**                | RDS, DynamoDB                                      |
-
----
+| Domain                       | Skills/Tools                                   | Projects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ---------------------------- | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cloud**                    | AWS                                            | - [Automated Image Zipping Pipeline using AWS Serverless Services](https://github.com/sarveshghag-cloud/Automated-Image-Zipping-Pipeline-using-AWS-Serverless-Services.git)<br>- [VPC Peering Between two different AWS regions](https://github.com/sarveshghag-cloud/-VPC-virtual-Private-Cloud-Peering-Between-two-different-AWS-regions-.git)<br>- [Signup Page using LEMP Dynamic Stack](https://github.com/sarveshghag-cloud/Signup-Page-using-LEMP-Dynamic-Stack-linux-Nginx-MySQL-php-.git)<br>- [Data Migration from Traditional DB to RDS ](https://github.com/sarveshghag-cloud/Data-Migration-from-Traditional-DB-to-RDS-Relation-Databases-Services-.git) |
+| **Linux Projects**           | Linux permission <br>                          | - [Linux User & Security Management Project](https://github.com/sarveshghag-cloud/Linux-User-Security-Management-Project.git)<br> - [Scalable Three-Tier Web Application Architecture (Nginx Tomcat 9)](https://github.com/sarveshghag-cloud/Scalable-Three-Tier-Web-Application-Architecture-Nginx-Tomcat-9-.git)                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Infrastructure as Code**   | Terraform                                      | Starting on _feb 2026_                                                                                                                                                                                           |
+| **Server Templating**        | Docker                                         | - [Docker projects]()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **CI/CD**                    | - AWS CodePipeline, CodeBuild, CodeDeploy.<br> | - [CICD-with-AWS-code-services]()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                         |
+| **SCM**                      | GitHub, Gitlab                     | - [What is version control system ?](https://github.com/sarveshghag-cloud/version-control-system-.git)<br>-  [Git Staging Area to Working directory and Commit Guide to working director](https://github.com/sarveshghag-cloud/git-version.git) <br>-[Repository Mirroring from local machine to Gitlab and Github](https://github.com/sarveshghag-cloud/Repository-Mirroring-from-local-machine-to-Gitlab-and-Github.git)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Configuration Management** | Ansible                                        | Starting on _feb 2026_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Databases**                | - DynamoDB, RDS                                | - [Data Migration from Traditional DB to RDS](https://github.com/sarveshghag-cloud/Data-Migration-from-Traditional-DB-to-RDS-Relation-Databases)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|                              |
 
 ## 📂 Projects
 
@@ -41,8 +39,6 @@
 - 🔹 **Terraform AWS Infrastructure Deployment**
 - 🔹 **Dockerized Applications**
 
-
-
 ➡️ _More projects coming soon…_
 
 ---
@@ -52,6 +48,7 @@
 - 💼 **GitHub:** [github.com/sarveshghag-cloud](https://github.com/sarveshghag-cloud)
 - 💬 **LinkedIn:** (https://www.linkedin.com/in/sarvesh-ghag-1a7628294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📧 **Email:** (sarveshghag0915@gmail.com)
+- **Portfolio** (http://sarveshtech.cloud/)
 
 ---
 
